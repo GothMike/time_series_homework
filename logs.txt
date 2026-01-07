@@ -1,0 +1,7 @@
+{"user_id": 507675227, "ts_utc": "2026-01-07T14:32:18.807926+00:00", "ticker": "AAPL", "amount": 1000.0, "best_model": "ARIMA", "metric_name": "RMSE", "metric_value": 27.434326579457856, "profit": 0.0}
+{"user_id": 507675227, "ts_utc": "2026-01-07T14:36:07.096969+00:00", "ticker": "MSFT", "amount": 1000.0, "best_model": "ARIMA", "metric_name": "RMSE", "metric_value": 22.747949247408794, "profit": 0.0}
+{"user_id": 507675227, "ts_utc": "2026-01-07T14:41:23.430294+00:00", "ticker": "TSLA", "amount": 1000.0, "best_model": "ARIMA", "metric_name": "RMSE", "metric_value": 38.22398513316933, "profit": 0.00725594623759207}
+{"user_id": 507675227, "ts_utc": "2026-01-07T14:43:36.845571+00:00", "ticker": "AAPL", "amount": 10000.0, "best_model": "ARIMA", "metric_name": "RMSE", "metric_value": 27.42151329479742, "profit": 0.0}
+{"user_id": 507675227, "ts_utc": "2026-01-07T14:45:02.163655+00:00", "ticker": "NVDA", "amount": 1000.0, "best_model": "ARIMA", "metric_name": "RMSE", "metric_value": 8.146907349154255, "profit": 0.32368276263775897}
+{"user_id": 507675227, "ts_utc": "2026-01-07T14:45:33.586537+00:00", "ticker": "TSLA", "amount": 1000.0, "best_model": "ARIMA", "metric_name": "RMSE", "metric_value": 38.23022872715843, "profit": 0.007985574645886118}
+{"user_id": 507675227, "ts_utc": "2026-01-07T14:53:38.393994+00:00", "ticker": "META", "amount": 30000.0, "best_model": "ARIMA", "metric_name": "RMSE", "metric_value": 63.694315475550496, "profit": 3.2723701281029207}
